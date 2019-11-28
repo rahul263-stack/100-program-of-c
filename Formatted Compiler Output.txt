@@ -1,0 +1,6 @@
+5	22	D:\Website important\100-program-of-c\string is palandrom or not.cpp	[Warning] multi-character character constant [-Wmultichar]
+D:\Website important\100-program-of-c\string is palandrom or not.cpp	In function 'int main()':
+5	26	D:\Website important\100-program-of-c\string is palandrom or not.cpp	[Warning] overflow in implicit constant conversion [-Woverflow]
+19	27	D:\Website important\100-program-of-c\string is palandrom or not.cpp	[Error] expected ')' before ';' token
+19	31	D:\Website important\100-program-of-c\string is palandrom or not.cpp	[Error] expected ';' before ')' token
+28	1	D:\Website important\100-program-of-c\string is palandrom or not.cpp	[Error] expected ';' before '}' token
