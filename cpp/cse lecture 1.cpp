@@ -17,6 +17,8 @@ int main()
                //Write a program to input program and swappin of tow number
           //     int a,b,temp;
             //   cout<<"Enter the value of and b "<<endl;
+            \
+            
               // cin>>a>>b;
              //temp = a;
              //a=b;
@@ -48,7 +50,7 @@ cin>>a>>b;
       else
           cout<<"b is greater";*/
 
-  /*  int a,b,c;
+    int a,b,c;
     cout<<"enter the value of a,b,c/n";
     cin>>a>>b>>c;
     if(a>b && a>c)
@@ -56,7 +58,7 @@ cin>>a>>b;
     else if (b>c)
         cout<<"b os greatest ";
     else
-        cout<<"c is greatest"; */
+        cout<<"c is greatest"; 
 
   //write a program to check if aa number is positive negative or zero
 
